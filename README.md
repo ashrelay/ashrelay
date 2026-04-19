@@ -15,6 +15,7 @@
 ```
 I build things from the interface down to the database. I am not an expert. 
 I am mostly just stubborn and reasonably decent at feeding highly specific instructions into a prompt box and duct taping stuff together. 
+
 I doubt I'll find a carrer in this field. 
 Which is fine. That's fine. I'm in a very healthy place about this.
 
