@@ -12,22 +12,18 @@
 
 ```
   ashrelay@void:~$ whoami
-```
 
-I'm at that stage where I know enough to be dangerous  
-but not enough to be hired by anyone who does code reviews.  
+```
+I build things from the interface down to the database. I am not an expert. I am mostly just stubborn and reasonably decent at feeding highly specific instructions into a prompt box and duct taping stuff together. I doubt I'll find a carrer in this field. 
 Which is fine. That's fine. I'm in a very healthy place about this.
 
-I build things end-to-end — the part you see, the part that runs it,  
-the part that argues with a database at 2am. Occasionally all three  
-at once. The trick is to look like you meant to do it that way.
+Also 90% of my research is from instagram reels. 
 
 ```
-  > current_obsession  : making AI do things it probably shouldn't
-  > operating_mode     : minimum viable sanity
-  > known_issue        : takes CSS personally
-  > relationship_status: it's complicated (with TypeScript)
-  > ETA to expertise   : [ ░░░░░░░░░░░░░░░░░░░░ ] undefined
+  > logic_flow         : mostly just hoping for the best
+  > current_focus      : figuring out why the machine is lying to me
+  > known_defect       : explaining my career to women at parties
+  > patience_remaining : [ ▓▓░░░░░░░░░░░░░░░░░░ ] 10%
 ```
 
 <br clear="both">
