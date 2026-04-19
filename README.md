@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" height="224" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmg0d3I4dXhrcjhqdDhkazR4Ynd2cWhxbmZucmQ5NHdtbWlxbDR2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UZumCzdvPAOu4/giphy.gif" />
+<img align="right" height="222" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmg0d3I4dXhrcjhqdDhkazR4Ynd2cWhxbmZucmQ5NHdtbWlxbDR2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UZumCzdvPAOu4/giphy.gif" />
 
 ```
   ashrelay@void:~$ whoami
