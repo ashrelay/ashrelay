@@ -1,0 +1,41 @@
+name: Generate Space Stats Card
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # Daily at 6 AM UTC — updates ISS position & date-based stats
+  push:
+    branches: [main]
+  workflow_dispatch:       # Run manually from the Actions tab any time
+
+jobs:
+  generate-space-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate space stats SVG card
+        env:
+          # Set this in: Settings → Secrets and variables → Actions → Variables
+          # Name: BIRTHDAY   Value: YYYY-MM-DD  (e.g. 2001-04-15)
+          BIRTHDAY: ${{ vars.BIRTHDAY }}
+        run: python scripts/generate_space_card.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated/space-stats.svg
+          git diff --cached --quiet \
+            || git commit -m "chore: update space stats card [skip ci]"
+          git push

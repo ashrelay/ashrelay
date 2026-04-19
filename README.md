@@ -32,7 +32,12 @@ at once. The trick is to look like you meant to do it that way.
 
 <br clear="both">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashrelay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&title_color=888888&text_color=666666&icon_color=555555&bg_color=0d0d0d&border_color=2a2a2a" height="250" alt="stats graph" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashrelay&custom_title=evidence+of+existence&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&title_color=888888&text_color=666666&icon_color=555555&bg_color=0d0d0d&border_color=2a2a2a" height="195" alt="stats graph" />
+<img src="https://raw.githubusercontent.com/ashrelay/ashrelay/main/generated/space-stats.svg" height="195" alt="cosmic damage report" />
+
+</div>
 
 ---
 
@@ -88,15 +93,15 @@ at once. The trick is to look like you meant to do it that way.
 ---
 
 ```
-ashrelay@void:~$ git log --all --format="%h %s" | sed 's/[a-f0-9]\{7\}/██████/g'
+ashrelay@void:~$ cat CURRENTLY_SHIPPING.md
 
-██████  wip:  something that might actually work
-██████  feat: [REDACTED] — ambitious. concerning. mine.
-██████  fix:  it was fine before i touched it
-██████  feat: [REDACTED] — new approach. different problem. same hubris.
-██████  wip:  not done. possibly never done. committed anyway.
+[ active ]   ashrelay/ashrelay     — this profile. it counts.
+[ active ]   AYD App               — full-stack event platform built for ~100 delegates
+                                     Next.js · Supabase · Vercel · too many edge cases
+[ wip    ]   something with AI     — early stage. the idea is solid. the code is not yet.
+[ parked ]   3 other things        — opened, half-built, tabs never closed
 
-private repo activity: ████████████████████ [access denied]
+status: shipping
 ```
 
 ---
