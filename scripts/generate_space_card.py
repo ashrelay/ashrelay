@@ -17,7 +17,7 @@ from datetime import date, datetime
 from pathlib import Path
 
 # ── Config ────────────────────────────────────────────────────────────────────
-BIRTHDAY_STR = os.environ.get("BIRTHDAY", "2000-01-01")
+BIRTHDAY_STR = os.environ.get("BIRTHDAY", "2003-12-23")
 CARD_WIDTH   = 330
 CARD_HEIGHT  = 195
 
@@ -138,7 +138,7 @@ def main():
     out = Path("generated/space-stats.svg")
     out.parent.mkdir(exist_ok=True)
     out.write_text(svg, encoding="utf-8")
-    print(f"[✓] Saved    : {out}")
+    print(f"[ok] Saved   : {out}")
 
 if __name__ == "__main__":
     main()
