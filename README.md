@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" height="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmg0d3I4dXhrcjhqdDhkazR4Ynd2cWhxbmZucmQ5NHdtbWlxbDR2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UZumCzdvPAOu4/giphy.gif" />
+<img align="right" height="224" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmg0d3I4dXhrcjhqdDhkazR4Ynd2cWhxbmZucmQ5NHdtbWlxbDR2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UZumCzdvPAOu4/giphy.gif" />
 
 ```
   ashrelay@void:~$ whoami
@@ -74,40 +74,19 @@ at once. The trick is to look like you meant to do it that way.
 **[ also technically tools ]**
 
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-1a1a1a?style=flat-square&logo=stackoverflow&logoColor=888888)
-![OpenAI](https://img.shields.io/badge/ChatGPT-1a1a1a?style=flat-square&logo=openai&logoColor=888888)
-![Anthropic](https://img.shields.io/badge/Claude-1a1a1a?style=flat-square&logo=anthropic&logoColor=888888)
+![Gemini](https://img.shields.io/badge/Gemini-1a1a1a?style=flat-square&logo=googlegemini&logoColor=888888)
+![Claude](https://img.shields.io/badge/Claude-1a1a1a?style=flat-square&logo=anthropic&logoColor=888888)
 ![Google](https://img.shields.io/badge/Google_at_2am-1a1a1a?style=flat-square&logo=google&logoColor=888888)
+![TikTok](https://img.shields.io/badge/TikTok_(research)-1a1a1a?style=flat-square&logo=tiktok&logoColor=888888)
+![Instagram](https://img.shields.io/badge/Reels_(also_research)-1a1a1a?style=flat-square&logo=instagram&logoColor=888888)
 ![Buy Me A Coffee](https://img.shields.io/badge/Caffeine-1a1a1a?style=flat-square&logo=buymeacoffee&logoColor=888888)
 ![Spotify](https://img.shields.io/badge/Spotify_(focus_mode)-1a1a1a?style=flat-square&logo=spotify&logoColor=888888)
-![Reddit](https://img.shields.io/badge/Reddit_(not_focus_mode)-1a1a1a?style=flat-square&logo=reddit&logoColor=888888)
 ![Uber](https://img.shields.io/badge/Uber_(escape_plan)-1a1a1a?style=flat-square&logo=uber&logoColor=888888)
 
 ---
 
-### `[ telemetry ]`
-
-```bash
-ashrelay@void:~$ git log --all --oneline --redacted
-```
-
-```
-██████  feat: [CLASSIFIED] — something that might actually work
-██████  fix:  [REDACTED]   — it was fine before i touched it
-██████  feat: [CLASSIFIED] — new approach. different problem. same hubris
-██████  chore:[REDACTED]   — "quick refactor"
-██████  fix:  [CLASSIFIED] — the confidence of someone who hasn't deployed yet
-██████  feat: [REDACTED]   — ambitious. concerning. mine.
-██████  wip:  [CLASSIFIED] — not done. possibly never done. committed anyway.
-
-──────────────────────────────────────────────────────
-  public  commits: visible ↑   private: ██ ██ ████
-  total output: [REDACTED]
-  mood:   deteriorating → stable → shipping
-──────────────────────────────────────────────────────
-```
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrelay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&title_color=888888&text_color=666666&icon_color=555555&bg_color=0d0d0d&border_color=2a2a2a" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashrelay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&title_color=888888&text_color=666666&icon_color=555555&bg_color=0d0d0d&border_color=2a2a2a" height="200" alt="stats graph" />
 </div>
 
 <br clear="both">
