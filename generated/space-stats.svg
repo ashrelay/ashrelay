@@ -1,31 +1,25 @@
 <svg width="330" height="195" xmlns="http://www.w3.org/2000/svg">
-  <!-- background -->
   <rect width="330" height="195" rx="6" fill="#0d0d0d" stroke="#2a2a2a" stroke-width="1"/>
-
-  <!-- title -->
-  <text x="16" y="22" font-family="'Courier New',Courier,monospace" font-size="13" font-weight="bold" fill="#888888">cosmic damage report</text>
-  <text x="16" y="36" font-family="'Courier New',Courier,monospace" font-size="9" fill="#333333">(you in numbers that don't help)</text>
-
-  <!-- divider -->
-  <line x1="16" y1="43" x2="314" y2="43" stroke="#2a2a2a" stroke-width="1"/>
-
-  <!-- rows -->
-  <text x="16" y="58" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">days operational</text>
-  <text x="314" y="58" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">8,154</text>
-  <text x="16" y="80" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">ISS orbits since birth</text>
-  <text x="314" y="80" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">126,631</text>
-  <text x="16" y="102" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">earth km traveled</text>
-  <text x="314" y="102" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">20.98B km</text>
-  <text x="16" y="124" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">lunar cycles done</text>
-  <text x="314" y="124" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">276.1</text>
-  <text x="16" y="146" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">laps around the sun</text>
-  <text x="314" y="146" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">22.32</text>
-  <text x="16" y="168" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">ISS is right now at</text>
-  <text x="314" y="168" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">location: classified</text>
-
-  <!-- footer divider -->
-  <line x1="16" y1="177" x2="314" y2="177" stroke="#333333" stroke-width="0.5"/>
-
-  <!-- updated timestamp -->
-  <text x="165" y="188" font-family="'Courier New',Courier,monospace" font-size="8" fill="#333333" text-anchor="middle">updated 2026-04-20 · ISS position live</text>
+  <text x="16" y="21" font-family="'Courier New',Courier,monospace" font-size="13" font-weight="bold" fill="#888888">cosmic damage report</text>
+  <text x="16" y="33" font-family="'Courier New',Courier,monospace" font-size="8.5" fill="#2e2e2e">(you in numbers that don't help)</text>
+  <line x1="16" y1="40" x2="314" y2="40" stroke="#2a2a2a" stroke-width="1"/>
+  <text x="16" y="55" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">days operational</text>
+  <text x="314" y="55" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">8,154</text>
+  <text x="16" y="70" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">laps around the sun</text>
+  <text x="314" y="70" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">22.32</text>
+  <text x="16" y="85" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">days to fix your life</text>
+  <text x="314" y="85" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">247</text>
+  <line x1="16" y1="93" x2="314" y2="93" stroke="#2e2e2e" stroke-width="0.5"/>
+  <text x="16" y="106" font-family="'Courier New',Courier,monospace" font-size="10" fill="#4d4d4d">nearest asteroid · 2024 YR4</text>
+  <text x="314" y="106" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10" fill="#777777">3.1M km</text>
+  <text x="16" y="117" font-family="'Courier New',Courier,monospace" font-size="8.5" fill="#3d3d3d">— let's hope. evolution deserves another shot.</text>
+  <line x1="16" y1="124" x2="314" y2="124" stroke="#2e2e2e" stroke-width="0.5"/>
+  <text x="16" y="137" font-family="'Courier New',Courier,monospace" font-size="10" fill="#4d4d4d">latest quake · 5.68M</text>
+  <text x="314" y="137" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10" fill="#777777">20 km ESE of Silver Springs,…</text>
+  <text x="16" y="148" font-family="'Courier New',Courier,monospace" font-size="8.5" fill="#3d3d3d">— tectonic plates shifted. your semicolon though.</text>
+  <line x1="16" y1="155" x2="314" y2="155" stroke="#2e2e2e" stroke-width="0.5"/>
+  <text x="16" y="168" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">people currently off-planet</text>
+  <text x="314" y="168" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">not you</text>
+  <line x1="16" y1="177" x2="314" y2="177" stroke="#2e2e2e" stroke-width="0.5"/>
+  <text x="165" y="188" font-family="'Courier New',Courier,monospace" font-size="7.5" fill="#2e2e2e" text-anchor="middle">updated 2026-04-20 · live NASA + USGS data</text>
 </svg>

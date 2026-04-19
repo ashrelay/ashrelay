@@ -34,8 +34,7 @@ at once. The trick is to look like you meant to do it that way.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashrelay&custom_title=evidence+of+existence&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&title_color=888888&text_color=666666&icon_color=555555&bg_color=0d0d0d&border_color=2a2a2a" height="195" alt="stats graph" />
-<img src="https://raw.githubusercontent.com/ashrelay/ashrelay/main/generated/space-stats.svg" height="195" alt="cosmic damage report" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashrelay&custom_title=evidence+of+existence&show_icons=true&hide_rank=true&theme=dark&hide_border=false&title_color=888888&text_color=666666&icon_color=555555&bg_color=0d0d0d&border_color=2a2a2a" height="195" alt="stats graph" />&nbsp;<img src="https://raw.githubusercontent.com/ashrelay/ashrelay/main/generated/space-stats.svg" height="195" alt="cosmic damage report" />
 
 </div>
 
