@@ -32,6 +32,10 @@ at once. The trick is to look like you meant to do it that way.
 
 <br clear="both">
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashrelay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&title_color=888888&text_color=666666&icon_color=555555&bg_color=0d0d0d&border_color=2a2a2a" height="200" alt="stats graph" />
+</div>
+
 ---
 
 ### `/usr/bin/env`
@@ -84,10 +88,6 @@ at once. The trick is to look like you meant to do it that way.
 ![Uber](https://img.shields.io/badge/Uber_(escape_plan)-1a1a1a?style=flat-square&logo=uber&logoColor=888888)
 
 ---
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrelay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&title_color=888888&text_color=666666&icon_color=555555&bg_color=0d0d0d&border_color=2a2a2a" height="200" alt="stats graph" />
-</div>
 
 <br clear="both">
 
