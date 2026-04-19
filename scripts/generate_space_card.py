@@ -128,8 +128,8 @@ def build_svg(birthday: date, today: date) -> str:
         f'  <rect width="{CARD_WIDTH}" height="{CARD_HEIGHT}" rx="6" fill="{BG}" stroke="{BORDER}" stroke-width="1"/>\n'
 
         # title
-        f'  <text x="{LX}" y="21" font-family="\'Courier New\',Courier,monospace" font-size="13" font-weight="bold" fill="{TITLE}">cosmic damage report</text>\n'
-        f'  <text x="{LX}" y="33" font-family="\'Courier New\',Courier,monospace" font-size="8.5" fill="{DIM}">(you in numbers that don\'t help)</text>\n'
+        f'  <text x="{LX}" y="21" font-family="\'Courier New\',Courier,monospace" font-size="13" font-weight="bold" fill="{TITLE}">existential crisis</text>\n'
+        f'  <text x="{LX}" y="33" font-family="\'Courier New\',Courier,monospace" font-size="8.5" fill="{DIM}">(me in numbers that don\'t help)</text>\n'
         + div(40, BORDER, "1")
 
         # personal stats
@@ -145,11 +145,11 @@ def build_svg(birthday: date, today: date) -> str:
 
         # earthquake section
         + row(137, f"latest quake · {eq_mag}", eq_place, "10")
-        + note(148, "— tectonic plates shifted. your semicolon though.")
+        + note(148, "— and you're having the bad day?")
         + div(155)
 
         # people in space
-        + row(168, "people currently off-planet", "not you")
+        + row(168, "people I wanna be friends with", "not you")
 
         # footer
         + div(177)
