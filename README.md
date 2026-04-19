@@ -32,9 +32,7 @@ at once. The trick is to look like you meant to do it that way.
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrelay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&title_color=888888&text_color=666666&icon_color=555555&bg_color=0d0d0d&border_color=2a2a2a" height="250" alt="stats graph" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=ashrelay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&title_color=888888&text_color=666666&icon_color=555555&bg_color=0d0d0d&border_color=2a2a2a" height="250" alt="stats graph" />
 
 ---
 
@@ -89,7 +87,19 @@ at once. The trick is to look like you meant to do it that way.
 
 ---
 
-<br clear="both">
+```
+ashrelay@void:~$ git log --all --format="%h %s" | sed 's/[a-f0-9]\{7\}/██████/g'
+
+██████  wip:  something that might actually work
+██████  feat: [REDACTED] — ambitious. concerning. mine.
+██████  fix:  it was fine before i touched it
+██████  feat: [REDACTED] — new approach. different problem. same hubris.
+██████  wip:  not done. possibly never done. committed anyway.
+
+private repo activity: ████████████████████ [access denied]
+```
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashrelay/ashrelay/output/pacman-contribution-graph-dark.svg">
@@ -97,8 +107,4 @@ at once. The trick is to look like you meant to do it that way.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ashrelay/ashrelay/output/pacman-contribution-graph.svg">
 </picture>
 
-<div align="center">
-
 [![](https://komarev.com/ghpvc/?username=ashrelay&style=flat-square&color=2a2a2a&label=VIEWS)](https://github.com/ashrelay)
-
-</div>
