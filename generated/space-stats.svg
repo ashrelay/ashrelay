@@ -11,15 +11,15 @@
 
   <!-- rows -->
   <text x="16" y="58" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">days operational</text>
-  <text x="314" y="58" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">8,154</text>
+  <text x="314" y="58" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">9,605</text>
   <text x="16" y="80" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">ISS orbits since birth</text>
-  <text x="314" y="80" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">126,631</text>
+  <text x="314" y="80" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">149,165</text>
   <text x="16" y="102" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">earth km traveled</text>
-  <text x="314" y="102" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">20.98B km</text>
+  <text x="314" y="102" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">24.72B km</text>
   <text x="16" y="124" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">lunar cycles done</text>
-  <text x="314" y="124" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">276.1</text>
+  <text x="314" y="124" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">325.3</text>
   <text x="16" y="146" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">laps around the sun</text>
-  <text x="314" y="146" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">22.32</text>
+  <text x="314" y="146" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">26.30</text>
   <text x="16" y="168" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">ISS is right now at</text>
   <text x="314" y="168" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">location: classified</text>
 
@@ -27,5 +27,5 @@
   <line x1="16" y1="177" x2="314" y2="177" stroke="#333333" stroke-width="0.5"/>
 
   <!-- updated timestamp -->
-  <text x="165" y="188" font-family="'Courier New',Courier,monospace" font-size="8" fill="#333333" text-anchor="middle">updated 2026-04-20 · ISS position live</text>
+  <text x="165" y="188" font-family="'Courier New',Courier,monospace" font-size="8" fill="#333333" text-anchor="middle">updated 2026-04-19 · ISS position live</text>
 </svg>
