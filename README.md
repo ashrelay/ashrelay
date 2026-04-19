@@ -1,93 +1,125 @@
 <div align="center">
 
-# [ / ]
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=20&pause=1000&color=8C1A1A&center=true&vCenter=true&width=400&lines=Learning.;Prompting.;Orchestrating.;Sighing." alt="Typing SVG" /></a>
-
-> *I’d explain how I built this, but honestly, the machine and I are still negotiating.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/triyash-chetty-82387a234/) 
-[![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:triyashc@gmail.com) 
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=1200&color=888888&center=true&vCenter=true&width=500&lines=could+be+worse.;working+on+it.;no+seriously%2C+working+on+it.;the+machine+and+I+have+reached+a+truce.;shipping+things+that+sometimes+work.;i+understood+that+reference.;not+great%2C+not+terrible." alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-### [ ~ ] Directory
+<img align="right" height="224" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmg0d3I4dXhrcjhqdDhkazR4Ynd2cWhxbmZucmQ5NHdtbWlxbDR2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UZumCzdvPAOu4/giphy.gif" />
 
-I don't write all my code from scratch. I'm more of an... orchestrator. I point at problems, type a few incredibly specific instructions, and politely ask the void to generate a solution. Sometimes, it even works.
+```
+  ashrelay@void:~$ whoami
+```
 
-`>` **Current focus:** Figuring out how things actually run under the hood (reluctantly).<br>
-`>` **Learning:** The subtle art of not breaking production when applying a "quick fix".<br>
-`>` **Methodology:** 90% conceptualizing, 10% vigorously hitting tab to autocomplete.<br>
-`>` **Inquiries:** Minimalist design, advanced prompting, and why CSS grid is plotting against me.
+I'm at that stage where I know enough to be dangerous  
+but not enough to be hired by anyone who does code reviews.  
+Which is fine. That's fine. I'm in a very healthy place about this.
+
+I build things end-to-end — the part you see, the part that runs it,  
+the part that argues with a database at 2am. Occasionally all three  
+at once. The trick is to look like you meant to do it that way.
+
+```
+  > current_obsession  : making AI do things it probably shouldn't
+  > operating_mode     : minimum viable sanity
+  > known_issue        : takes CSS personally
+  > relationship_status: it's complicated (with TypeScript)
+  > ETA to expertise   : [ ░░░░░░░░░░░░░░░░░░░░ ] undefined
+```
+
+<br clear="both">
 
 ---
+
+### `/usr/bin/env`
+
+**[ client ]**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=888888)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=888888)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=888888)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=888888)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=888888)
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=888888)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=888888)
+
+**[ server & infra ]**
+
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=888888)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=888888)
+![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square&logo=supabase&logoColor=888888)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-1a1a1a?style=flat-square&logo=googlecloud&logoColor=888888)
+![Vercel](https://img.shields.io/badge/Vercel-1a1a1a?style=flat-square&logo=vercel&logoColor=888888)
+![Linode](https://img.shields.io/badge/Linode-1a1a1a?style=flat-square&logo=linode&logoColor=888888)
+![JWT](https://img.shields.io/badge/JWT-1a1a1a?style=flat-square&logo=jsonwebtokens&logoColor=888888)
+![Twilio](https://img.shields.io/badge/Twilio-1a1a1a?style=flat-square&logo=twilio&logoColor=888888)
+
+**[ tooling ]**
+
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=888888)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=888888)
+![NPM](https://img.shields.io/badge/NPM-1a1a1a?style=flat-square&logo=npm&logoColor=888888)
+![ESLint](https://img.shields.io/badge/ESLint-1a1a1a?style=flat-square&logo=eslint&logoColor=888888)
+![Prettier](https://img.shields.io/badge/Prettier-1a1a1a?style=flat-square&logo=prettier&logoColor=888888)
+![Notion](https://img.shields.io/badge/Notion-1a1a1a?style=flat-square&logo=notion&logoColor=888888)
+![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=flat-square&logo=figma&logoColor=888888)
+![Canva](https://img.shields.io/badge/Canva-1a1a1a?style=flat-square&logo=canva&logoColor=888888)
+![Krita](https://img.shields.io/badge/Krita-1a1a1a?style=flat-square&logo=krita&logoColor=888888)
+![Lightroom](https://img.shields.io/badge/Lightroom-1a1a1a?style=flat-square&logo=adobelightroom&logoColor=888888)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=888888)
+
+**[ also technically tools ]**
+
+![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-1a1a1a?style=flat-square&logo=stackoverflow&logoColor=888888)
+![OpenAI](https://img.shields.io/badge/ChatGPT-1a1a1a?style=flat-square&logo=openai&logoColor=888888)
+![Anthropic](https://img.shields.io/badge/Claude-1a1a1a?style=flat-square&logo=anthropic&logoColor=888888)
+![Google](https://img.shields.io/badge/Google_at_2am-1a1a1a?style=flat-square&logo=google&logoColor=888888)
+![Buy Me A Coffee](https://img.shields.io/badge/Caffeine-1a1a1a?style=flat-square&logo=buymeacoffee&logoColor=888888)
+![Spotify](https://img.shields.io/badge/Spotify_(focus_mode)-1a1a1a?style=flat-square&logo=spotify&logoColor=888888)
+![Reddit](https://img.shields.io/badge/Reddit_(not_focus_mode)-1a1a1a?style=flat-square&logo=reddit&logoColor=888888)
+![Uber](https://img.shields.io/badge/Uber_(escape_plan)-1a1a1a?style=flat-square&logo=uber&logoColor=888888)
+
+---
+
+### `[ telemetry ]`
+
+```bash
+ashrelay@void:~$ git log --all --oneline --redacted
+```
+
+```
+██████  feat: [CLASSIFIED] — something that might actually work
+██████  fix:  [REDACTED]   — it was fine before i touched it
+██████  feat: [CLASSIFIED] — new approach. different problem. same hubris
+██████  chore:[REDACTED]   — "quick refactor"
+██████  fix:  [CLASSIFIED] — the confidence of someone who hasn't deployed yet
+██████  feat: [REDACTED]   — ambitious. concerning. mine.
+██████  wip:  [CLASSIFIED] — not done. possibly never done. committed anyway.
+
+──────────────────────────────────────────────────────
+  public  commits: visible ↑   private: ██ ██ ████
+  total output: [REDACTED]
+  mood:   deteriorating → stable → shipping
+──────────────────────────────────────────────────────
+```
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashrelay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&title_color=888888&text_color=666666&icon_color=555555&bg_color=0d0d0d&border_color=2a2a2a" height="150" alt="stats graph" />
+</div>
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashrelay/ashrelay/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashrelay/ashrelay/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ashrelay/ashrelay/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
 
-### [ /usr/bin/env ]
-
-**[ Client ]**<br>
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-**[ Server & Infrastructure ]**<br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-
-**[ Tooling ]**<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) 
-![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)
-
----
-
-### [ Telemetry ]
-
-<br>
-
-<img src="https://wakatime.com/share/@ashrelay/609d9451-b8ef-466d-8a42-5f8f5370d069.svg" alt="minimalist pulsing dark skull animation" width="100">
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@ashrelay/609d9451-b8ef-466d-8a42-5f8f5370d069.svg?theme=dracula&custom_colors=bg:0d1117,chart:8c1a1a,axis:42464e,title:a9b2c3">
-  <img src="https://wakatime.com/share/@ashrelay/609d9451-b8ef-466d-8a42-5f8f5370d069.svg" alt="WakaTime Activity Chart" />
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ashrelay&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=A9B2C3&text_color=8b949e&icon_color=8C1A1A&bg_color=0d1117">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrelay&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=A9B2C3&text_color=8b949e&icon_color=8C1A1A&bg_color=0d1117" alt="GitHub Stats" />
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrelay&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=A9B2C3&text_color=8b949e&icon_color=8C1A1A">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrelay&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=A9B2C3&text_color=8b949e&icon_color=8C1A1A" alt="Top Languages" />
-</picture>
-
-<br><br>
-
-[![](https://komarev.com/ghpvc/?username=ashrelay&style=flat-square&color=30363d&label=VIEWS)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ashrelay&style=flat-square&color=2a2a2a&label=VIEWS)](https://github.com/ashrelay)
 
 </div>
