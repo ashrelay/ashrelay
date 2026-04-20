@@ -94,9 +94,9 @@ Also 90% of my research is from instagram reels.
 [ site     ]   spruceA0EMI (47.5049, -93.4541)
 [ location ]   Marcell Experimental Forest, MN — USA
 [ status   ]   Live feed: dream home.
+```
 
 <img src="https://phenocam.nau.edu/data/latest/spruceA0EMI.jpg" width="100%" />
-```
 
 ---
 
