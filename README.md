@@ -13,17 +13,18 @@
 ```
   ashrelay@void:~$ whoami
 ```
-I build things from the interface down to the database. I am not an expert. 
-I am mostly just stubborn and reasonably decent at feeding highly specific instructions into a prompt box and duct taping stuff together. 
+idk i just make sh*t sometimes. I am not an expert. 
+I am mostly just stubborn and can duck tape things together. 
 
 I doubt I'll find a carrer in this field. 
-Which is fine. That's fine. I'm in a very healthy place about this.
+Which is fine. That's fine. 
+I'm in a very healthy place about this.
 
 Also 90% of my research is from instagram reels. 
 
 ```
   > logic_flow         : mostly just hoping for the best
-  > current_focus      : figuring out why the machine is lying to me
+  > current_focus      : 
   > known_defect       : explaining my career to women at parties
   > patience_remaining : [ ▓▓░░░░░░░░░░░░░░░░░░ ] 10%
 ```
@@ -90,15 +91,11 @@ Also 90% of my research is from instagram reels.
 ---
 
 ```
-ashrelay@void:~$ cat CURRENTLY_SHIPPING.md
+[ site     ]   spruceA0EMI (47.5049, -93.4541)
+[ location ]   Marcell Experimental Forest, MN — USA
+[ status   ]   Live feed: dream home.
 
-[ active ]   ashrelay/ashrelay     — this profile. it counts.
-[ active ]   AYD App               — full-stack event platform built for ~100 delegates
-                                     Next.js · Supabase · Vercel · too many edge cases
-[ wip    ]   something with AI     — early stage. the idea is solid. the code is not yet.
-[ parked ]   3 other things        — opened, half-built, tabs never closed
-
-status: shipping
+<img src="https://phenocam.nau.edu/data/latest/spruceA0EMI.jpg" width="100%" />
 ```
 
 ---

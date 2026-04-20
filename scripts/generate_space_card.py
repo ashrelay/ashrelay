@@ -136,7 +136,7 @@ def build_svg(birthday: date, today: date) -> str:
         # personal stats
         + row(55,  "days operational",      fmt_n(days))
         + row(70,  "laps around the sun",   laps)
-        + row(85,  "until it's all over",    fmt_n(tdoom))
+        + row(85,  "days left to ask me for favors",    fmt_n(tdoom))
         + div(93)
 
         # asteroid section
