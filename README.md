@@ -13,7 +13,9 @@
 ```
   ashrelay@void:~$ whoami
 ```
-idk i just make sh*t sometimes. I am not an expert. 
+idk i just make sh*t sometimes. 
+
+I am not an expert. 
 I am mostly just stubborn and can duck tape things together. 
 
 I doubt I'll find a carrer in this field. 
