@@ -36,11 +36,12 @@ def _get(url, timeout=10):
 
 def fmt_n(n): return f"{n:,}"
 
-def days_until_bday(birthday: date, today: date) -> int:
-    ny = date(today.year, birthday.month, birthday.day)
-    if ny <= today:
-        ny = date(today.year + 1, birthday.month, birthday.day)
-    return (ny - today).days
+def days_until_end(birthday: date, today: date, life_expectancy: int = 80) -> int:
+    try:
+        death_date = date(birthday.year + life_expectancy, birthday.month, birthday.day)
+    except ValueError: # handle Feb 29th
+        death_date = date(birthday.year + life_expectancy, birthday.month, birthday.day - 1)
+    return max(0, (death_date - today).days)
 
 # ── Live data fetchers ────────────────────────────────────────────────────────
 def fetch_asteroid():
@@ -96,7 +97,7 @@ def fetch_earthquake():
 def build_svg(birthday: date, today: date) -> str:
     days  = (today - birthday).days
     laps  = f"{days / 365.25:.2f}"
-    tbday = days_until_bday(birthday, today)
+    tdoom = days_until_end(birthday, today)
 
     ast_name, ast_dist = fetch_asteroid()
     eq_mag,   eq_place = fetch_earthquake()
@@ -135,7 +136,7 @@ def build_svg(birthday: date, today: date) -> str:
         # personal stats
         + row(55,  "days operational",      fmt_n(days))
         + row(70,  "laps around the sun",   laps)
-        + row(85,  "days to fix your life", fmt_n(tbday))
+        + row(85,  "until it's all over",    fmt_n(tdoom))
         + div(93)
 
         # asteroid section
