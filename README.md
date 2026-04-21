@@ -99,13 +99,3 @@ Also 90% of my research is from instagram reels.
 </picture>
 
 [![](https://komarev.com/ghpvc/?username=ashrelay&style=flat-square&color=2a2a2a&label=VIEWS)](https://github.com/ashrelay)
-
----
-
-```
-[ site     ]   spruceA0EMI (47.5049, -93.4541)
-[ location ]   Marcell Experimental Forest, MN — USA
-[ status   ]   Live feed: dream home.
-```
-
-<img src="https://phenocam.nau.edu/data/latest/spruceA0EMI.jpg" width="100%" />
