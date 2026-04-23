@@ -4,22 +4,22 @@
   <text x="16" y="33" font-family="'Courier New',Courier,monospace" font-size="8.5" fill="#2e2e2e">(me in numbers that don't help)</text>
   <line x1="16" y1="40" x2="314" y2="40" stroke="#2a2a2a" stroke-width="1"/>
   <text x="16" y="55" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">days operational</text>
-  <text x="314" y="55" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">8,156</text>
+  <text x="314" y="55" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">8,157</text>
   <text x="16" y="70" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">laps around the sun</text>
   <text x="314" y="70" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">22.33</text>
   <text x="16" y="85" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">days left to ask me for favors</text>
-  <text x="314" y="85" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">21,064</text>
+  <text x="314" y="85" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">21,063</text>
   <line x1="16" y1="93" x2="314" y2="93" stroke="#2e2e2e" stroke-width="0.5"/>
-  <text x="16" y="106" font-family="'Courier New',Courier,monospace" font-size="10" fill="#4d4d4d">nearest asteroid · 2026 HY1</text>
-  <text x="314" y="106" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10" fill="#777777">1.5M km</text>
+  <text x="16" y="106" font-family="'Courier New',Courier,monospace" font-size="10" fill="#4d4d4d">nearest asteroid · 2022 UU8</text>
+  <text x="314" y="106" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10" fill="#777777">3.3M km</text>
   <text x="16" y="117" font-family="'Courier New',Courier,monospace" font-size="8.5" fill="#3d3d3d">— let's hope. evolution deserves another shot.</text>
   <line x1="16" y1="124" x2="314" y2="124" stroke="#2e2e2e" stroke-width="0.5"/>
-  <text x="16" y="137" font-family="'Courier New',Courier,monospace" font-size="10" fill="#4d4d4d">latest quake · 7.4M</text>
-  <text x="314" y="137" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10" fill="#777777">100 km ENE of Miyako, Japan</text>
+  <text x="16" y="137" font-family="'Courier New',Courier,monospace" font-size="10" fill="#4d4d4d">latest quake · 4.78M</text>
+  <text x="314" y="137" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10" fill="#777777">19 km SE of Silver Springs, …</text>
   <text x="16" y="148" font-family="'Courier New',Courier,monospace" font-size="8.5" fill="#3d3d3d">— and you're having the bad day?</text>
   <line x1="16" y1="155" x2="314" y2="155" stroke="#2e2e2e" stroke-width="0.5"/>
   <text x="16" y="168" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#4d4d4d">people I wanna be friends with</text>
   <text x="314" y="168" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="10.5" fill="#777777">not you</text>
   <line x1="16" y1="177" x2="314" y2="177" stroke="#2e2e2e" stroke-width="0.5"/>
-  <text x="165" y="188" font-family="'Courier New',Courier,monospace" font-size="7.5" fill="#2e2e2e" text-anchor="middle">updated 2026-04-22 · live NASA + USGS data</text>
+  <text x="165" y="188" font-family="'Courier New',Courier,monospace" font-size="7.5" fill="#2e2e2e" text-anchor="middle">updated 2026-04-23 · live NASA + USGS data</text>
 </svg>
